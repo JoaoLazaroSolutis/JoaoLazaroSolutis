@@ -2,8 +2,8 @@
 - 🌱 information Systems student 
 
   <div align="center">
-    <img height="150em" src='https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&countprivate=true&theme=material-palenight&cache_bust=1'>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&countprivate=true&layout=compact&show_icons=true&theme=material-palenight&cache_bust=2'>
+    <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&show_icons=true&countprivate=true&theme=material-palenight&cache_bust=1'>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&countprivate=true&layout=compact&show_icons=true&theme=material-palenight&cache_bust=2'>
 </div>
 
 
