@@ -1,9 +1,7 @@
 ### Hello i'm João Lázaro 👋
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
 
-  <div  align="center">
-   <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&show&countprivate=true&icons=true&theme=material-palenight'>
-  </div>
+  <img src="https://streak-stats.demolab.com?user=JoaoLazaroSolutis&theme=default&hide_border=true" alt="JoaoLazaroSolutis's GitHub Stats" />
 
 
    <div  align="center">
