@@ -2,8 +2,8 @@
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
 
   <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" style="width: 200px; height: 100px; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" style="width: 200px; height: 100px; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" style="width: 300px; height: 100px; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" style="width: 300px; height: 100px; object-fit: contain;">
 </div>
 
 
