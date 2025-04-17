@@ -2,8 +2,10 @@
 
 Sou estudante de Sistemas de Informação na SPtech - São Paulo Tech School, apaixonado por tecnologia e desenvolvimento.
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" />
+<div  align="center">
+  < img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" />
+  </div>
 <br>
 
 <div align="center">
