@@ -3,8 +3,8 @@
 Sou estudante de Sistemas de Informação na SPtech - São Paulo Tech School, apaixonado por tecnologia e desenvolvimento.
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de João Lázaro" style="width: auto; max-width: 48%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Linguagens Mais Usadas de João Lázaro" style="width: auto; max-width: 48%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de João Lázaro" style="width: auto; max-width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Linguagens Mais Usadas de João Lázaro" style="width: auto; max-width: 48%; height: auto;"/>
 </div>
 
 <br>
