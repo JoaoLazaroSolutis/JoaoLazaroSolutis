@@ -2,6 +2,8 @@
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
 
   <img src="https://streak-stats.demolab.com?user=JoaoLazaroSolutis&theme=default&hide_border=true" alt="JoaoLazaroSolutis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=default&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" />
 
 
    <div  align="center">
