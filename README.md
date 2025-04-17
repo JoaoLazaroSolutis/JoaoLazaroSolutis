@@ -1,8 +1,10 @@
 ### Hello i'm João Lázaro 👋
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats">
+  <div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="JoaoLazaroSolutis's GitHub Stats" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroSolutis&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="JoaoLazaroSolutis's GitHub Stats" style="max-width: 100%;">
+</div>
 
 
    <div  align="center">
